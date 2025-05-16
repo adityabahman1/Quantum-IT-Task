@@ -19,11 +19,10 @@ This is a full-stack web application built with the MERN stack (MongoDB, Express
 
 root/
 ├── backend/ # Express.js + MongoDB server
-│ └── ...
+│ 
 ├── frontend/ # React.js client app
-│ └── ...
+│ 
 ├── README.md
-└── package.json
 
 ## 🛠️ Tech Stack
 
